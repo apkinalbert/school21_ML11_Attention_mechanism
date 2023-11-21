@@ -238,4 +238,4 @@ Your repository should contain one or several notebooks with your solutions.
 - Repeat [Transformer architecture](https://arxiv.org/pdf/1706.03762.pdf) for names translation task
 - Transform names and translation into n-gram vectors. Implement and measure BLEU metric
 
-💡 [Tap here](https://forms.yandex.ru/cloud/646b47cd02848f2ef1031b24/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
+>Please leave feedback on the project in the [feedback form.](https://forms.yandex.ru/cloud/646b47cd02848f2ef1031b24/) 
