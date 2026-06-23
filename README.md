@@ -190,15 +190,16 @@ You can use any framework you like: PyTorch, TensorFlow, Keras, etc.
 
 ### Dataset
 
-You will be working with the dataset generated from an [open dataset of baby names](https://data.world/alexandra/baby-names). The original dataset consists of 6782 records. Each record contains the baby's name and gender. The extended version also includes a Russian translation of all names. The translation was done by Google Translate and then corrected manually in some cases.
+You will be working with the dataset generated from a [dataset of baby names](./datasets/babynames-clean.csv). The original dataset consists of 6782 records. Each record contains the baby's name and gender. The extended version also includes a Russian translation of all names. The translation was done by Google Translate and then corrected manually in some cases.
 
 ### Task
 
 1. Give the answer to the question from the introduction \
-    a. TODO.
+    a. What is the drawback of the RNN Encoder-Decoder approach for machine translation? \
+    b. What is positional encoding and why is it needed?
 
 2. Data preparation \
-    a. Download the dataset from the course files. \
+    a. Use the dataset file `datasets/baby_names.csv` provided in the repository. \
     b. Create 2 dictionaries for English letters and Russian letters. Do not forget special tokens. \
     c. Encode names. \
     d. Divide the dataset into training, valid and test parts (take 80-10-10%). Be sure to use random_state.
