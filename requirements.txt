@@ -1,0 +1,9 @@
+torch
+numpy
+pandas>=2.1
+matplotlib
+scikit-learn
+optuna
+ipython
+ipykernel
+jinja2
